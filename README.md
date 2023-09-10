@@ -3,6 +3,7 @@
 #
 ## Diagrama Entidade Relacionamento #  
 
+![plbde](https://github.com/Brunochdev/sql-dio-ptech/blob/Brunochdev-sql-desafio2/plbdo.jpg)
 
 #
     # Estrutura do Banco de Dados #
