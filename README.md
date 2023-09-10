@@ -4,6 +4,7 @@
 #
 ## Diagrama Entidade Relacionamento #  
 
+![plbde](https://github.com/Brunochdev/sql-dio-ptech/assets/139476631/dc2a275d-327d-49c7-af5b-61462846cdab)
 
 
 #
